@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋🌠
 
 - 🔭 I’m currently a student in Bilkent University.
 - 🌱 I’m doing projects in Java, Phyton and SQL.
